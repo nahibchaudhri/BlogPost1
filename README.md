@@ -1,5 +1,5 @@
 # BlogPost1
-##Introduction
+#Introduction
 I took on the Cloud Resume Challenge because I wanted to showcase my technical skills and demonstrate my ability to learn something new from scratch. This project was an opportunity to deepen my understanding of cloud infrastructure and gain hands-on experience with AWS. Through the challenge, I learned many essential skills while building a web application to host my resume on the cloud. I developed a front-end website using HTML and CSS to display my resume, a serverless API to support an encrypted visitor counter using AWS services like S3 and Lambda, and automated the entire deployment process with CI/CD pipelines and Terraform.
 
 ##Building the Front End
